@@ -23,16 +23,6 @@ It is intended for educational purposes and is not meant for production use.
 - Persistent storage using JSON
 - Simple command-line interface
 
-## Project Structure
-
-```
-contact-manager/
-│
-├── main.py
-├── contacts.json
-└── README.md
-```
-
 ## Contact Format
 
 Each contact contains:
@@ -56,7 +46,7 @@ Example stored contact:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/contact-manager.git
+git clone https://github.com/std-enigma/contact-manager.git
 ```
 
 2. Navigate into the project folder:
