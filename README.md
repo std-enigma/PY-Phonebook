@@ -80,7 +80,3 @@ Some ideas for extending the project:
 - Export contacts
 - Add validation for emails and phone numbers
 - Build a GUI version
-
-## License
-
-This project is open source and available under the MIT License.
